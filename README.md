@@ -14,7 +14,7 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
 </div>
-  
+  <img src="https://www.codewars.com/users/GNeves25/badges/large">
   ##
  
 <div align="center"> 
